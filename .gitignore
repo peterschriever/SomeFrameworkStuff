@@ -1,0 +1,4 @@
+defaultConfig.php
+customConfig.php
+*.log
+.htaccess
