@@ -1,4 +1,4 @@
-peterschrieverdotcom
+Some Framework Stuff
 ====================
 
-Personal website i am working on and framework i am fooling around with
+MVC framework i am developing and fooling around with
